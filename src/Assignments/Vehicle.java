@@ -13,7 +13,7 @@ public abstract class Vehicle {
         this.nameofmodel = nameofmodel;
         this.year = year;
         this.numberofwheels = numberofwheels;
-        this.speed = 0;
+        this.speed = 1;
         this.leveloffuel = 100.0;
     }
 
